@@ -1,0 +1,8 @@
+{
+  "name": "Giao nhận và Công Việc ",
+  "description": "An application to reconcile coupon or ticket numbers from two uploaded images using Gemini Vision OCR.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
